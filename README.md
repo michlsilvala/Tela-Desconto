@@ -7,7 +7,7 @@ O programa tbm possui tratamento de erros caso o usuário digite um valor incorr
 
 # Funções
 
-- Valro total em reais (R$)
+- Valor total em reais (R$)
 - Seleção de porcentagem (1% a 100%)
 - Calculo automatico do valor final
 - Botão limpar
