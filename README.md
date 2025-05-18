@@ -14,8 +14,7 @@ O programa tbm possui tratamento de erros caso o usuário digite um valor incorr
 - Interface extremamente simples
 
 # Execução
-- Ter o ava JRE instalado
-- O programa já está compilado, o byte code está na pasta dist
+- Ter o ava JRE e JDK instalado
 
-Esse é um projeto pessoal
+
 
